@@ -6,8 +6,8 @@
 ### Author: Alexander White
 
 ### Links and Resources
-* [PR]()
-* [travis]()
+* [PR](https://github.com/alex-white-401-advanced-javascript/lab-08/pull/1)
+* [![Build Status](https://travis-ci.com/alex-white-401-advanced-javascript/lab-08.svg?branch=master)](https://travis-ci.com/alex-white-401-advanced-javascript/lab-08)
 
 #### Documentation
 * [swagger]()
@@ -35,14 +35,12 @@ DELETE:
 * 
 
 ### Modules
-
-
+* categories.js
+* products.js
+* products-schema.js
 
 ### Setup
-#### `.env` requirements
 * `npm i`
-
-
 
 #### Running the app
 * `npm start`
